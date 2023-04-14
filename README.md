@@ -128,12 +128,14 @@ REG NO:212222100029
   
 
 # OUPUT
+![timeout](https://user-images.githubusercontent.com/120230694/232111657-3173ca9f-2bef-45bf-bae6-efc7893c471b.png)
 
-![output](http://nandhakumar.student.saveetha.in:8000/static/images/timeout.png?raw=true)
+
 
 # HDML VALIDATOR
+![timeout2](https://user-images.githubusercontent.com/120230694/232111734-0fb59729-de46-4a11-aa59-d1bd94fe4913.png)
 
-![output2](http://nandhakumar.student.saveetha.in:8000/static/images/timeout2.png?raw=true)
+
 
 # RESULT
 The program for creating timetable is completed successfully
