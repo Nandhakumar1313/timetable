@@ -128,11 +128,16 @@ REG NO:212222100029
   
 
 # OUPUT
+
+## SERVER OUTPUT
+![Screenshot (64)](https://user-images.githubusercontent.com/120230694/233768398-a4e5a09f-eb85-4360-ac2a-bc6ff9c27a8f.png)
+
+
+## CLIENT OUTPUT
 ![timeout](https://user-images.githubusercontent.com/120230694/232111657-3173ca9f-2bef-45bf-bae6-efc7893c471b.png)
 
 
-
-# HDML VALIDATOR
+## HDML VALIDATOR
 ![timeout2](https://user-images.githubusercontent.com/120230694/232111734-0fb59729-de46-4a11-aa59-d1bd94fe4913.png)
 
 
