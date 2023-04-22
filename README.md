@@ -130,7 +130,7 @@ REG NO:212222100029
 # OUPUT
 
 ## SERVER OUTPUT
-![Screenshot (64)](https://user-images.githubusercontent.com/120230694/233768398-a4e5a09f-eb85-4360-ac2a-bc6ff9c27a8f.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/120230694/233768444-e57bfda4-20c9-434e-b1ff-8ae08b379c82.png)
 
 
 ## CLIENT OUTPUT
